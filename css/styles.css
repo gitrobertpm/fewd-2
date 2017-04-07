@@ -52,6 +52,7 @@ a:hover {
 
 hr {
 	width: 90%;
+	max-width: 1000px;
 	height: 2px;
 	color: rgba(200,200,200,0.5);
 	background-color: rgba(200,200,200,0.5);
